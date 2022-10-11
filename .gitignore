@@ -88,5 +88,16 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Starter Content
-Content/StarterContent
+#Starter Content
+Content/StarterContent/*
+
+#Third Person Character
+Content/__ExternalActors__*
+Content/__ExternalObjects__*
+Content/Characters/*
+
+#Level Prototyping
+Content/LevelPrototyping/*
+
+#Maps
+Content/Maps/*
