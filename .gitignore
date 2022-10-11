@@ -92,6 +92,7 @@ DerivedDataCache/*
 Content/StarterContent/*
 
 #Third Person Character
+Content/ThirdPerson/*
 Content/__ExternalActors__/*
 Content/__ExternalObjects__/*
 Content/Characters/*
